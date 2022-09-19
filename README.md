@@ -7,7 +7,7 @@
 #### My repositories, click to see them, I'm always looking for evolution in my codes, that's why I always modify my applications. 
 #### Meus repositórios, clique para conhecê-los, estou sempre em busca de evolução nos meus códigos, por isso sempre modifico minhas aplicações.
 
-### My Repositories / Meus Repositórios
+### My Main Repositories / Meus Repositórios Principais
 
 ### [dsmeta - Projeto FullStack usando tecnologias React e Spring Boot.](https://github.com/lu78abranches/dsmeta)
 ### [Desafio de Projeto Final - Bootcamp-GFT5 - Projeto em Spring Boot Java/ Padrões de Projeto ](https://github.com/lu78abranches/Exp-Padr-De-Projetos-Java-Desafio2)
