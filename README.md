@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @lu78abranches / Eu sou Luis Abranches
-- 👀 I’m interested in back-end / Tenho interesse em back-end
-- 🌱 I’m currently learning Spring Boot, React, Java, Python, Java Script / Atualmente estou aprendendo Spring Boot, React, Java, Python, Java Script
-- 💞️ I'm preparing a lot to be able to collate with other codes / Estou me preparando muito para poder colacorar com outros códigos
-- 📫 How to reach me luisabranches.violao@gmail.com / Como entrar em contato, chegar até mim luisabranches.violao@gmail.com
+## - 👋 Hi, I’m @lu78abranches / Eu sou Luis Abranches
+## - 👀 I’m interested in back-end / Tenho interesse em back-end
+## - 🌱 I’m currently learning Spring Boot, React, Java, Python, Java Script / Atualmente estou aprendendo Spring Boot, React, Java, Python, Java Script
+## - 💞️ I'm preparing a lot to be able to collate with other codes / Estou me preparando muito para poder colacorar com outros códigos
+## - 📫 How to reach me luisabranches.violao@gmail.com / Como entrar em contato, chegar até mim luisabranches.violao@gmail.com
 
-#### My repositories, click to see them, I'm always looking for evolution in my codes, that's why I always modify my applications. 
-#### Meus repositórios, clique para conhecê-los, estou sempre em busca de evolução nos meus códigos, por isso sempre modifico minhas aplicações.
+### My repositories, click to see them, I'm always looking for evolution in my codes, that's why I always modify my applications. 
+### Meus repositórios, clique para conhecê-los, estou sempre em busca de evolução nos meus códigos, por isso sempre modifico minhas aplicações.
 
 ### My Main Repositories / Meus Repositórios Principais
 
