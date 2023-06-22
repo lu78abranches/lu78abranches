@@ -1,5 +1,5 @@
 ### - 👋 Hi, I’m @lu78abranches / Eu sou Luis Abranches
-### - 👀 I’m interested in back-end / Tenho interesse em back-end
+### - 👀 I’m interested in back-end and front-end / Tenho interesse em back-end e Front-end
 ### - 🌱 I’m currently learning Spring Boot, React, Java, Python, Java Script / Atualmente estou aprendendo Spring Boot, React, Java, Python, Java Script
 ### - 💞️ I'm preparing a lot to be able to collaborate with other codes / Estou me preparando muito para poder colaborar com outros códigos
 ### - 📫 How to reach me luisabranches.violao@gmail.com / Como entrar em contato, chegar até mim luisabranches.violao@gmail.com
