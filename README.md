@@ -10,10 +10,11 @@
 #### My Main Repositories / Meus Repositórios Principais
 
 #### [dsmeta - Projeto FullStack usando tecnologias React e Spring Boot.](https://github.com/lu78abranches/dsmeta)
-#### [Jogo de advinhação de número - Desenvolvido em JavaScript  ](https://github.com/lu78abranches/numero-secreto)
+#### [AluraBooks - Desenvolvido em HTML - CSS - JavaScript  ](https://alura-books-khaki.vercel.app/)
 #### [Desafio da Alura para desenvolvimento Front-End - Chalenge-CodeChella ](https://github.com/lu78abranches/Chalenge-CodeChella)
 #### [Robotron 2000 - Projeto desenvolvido em JavaScript - Manipulação do DOM](https://github.com/lu78abranches/robotron-2000)
 #### [Projeto de Estudo em JavaScript - Armazenando dados na Web - Mochila de Viagem.](https://github.com/lu78abranches/mochila-de-viagem)
+#### [Jogo de advinhação de número - Desenvolvido em JavaScript  ](https://github.com/lu78abranches/numero-secreto)
 
 
 
