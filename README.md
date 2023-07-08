@@ -10,6 +10,7 @@
 #### My Main Repositories / Meus Repositórios Principais
 
 #### [dsmeta - Projeto FullStack usando tecnologias React e Spring Boot.](https://github.com/lu78abranches/dsmeta)
+#### [Persistencia-JPA-Hibernate - Adicionando a JPA em uma aplicação Java com Maven](https://github.com/lu78abranches/Persistencia-jpa-hibernate)
 #### [AluraBooks - Desenvolvido em HTML - CSS - JavaScript  ](https://alura-books-khaki.vercel.app/)
 #### [Desafio da Alura para desenvolvimento Front-End - Chalenge-CodeChella ](https://github.com/lu78abranches/Chalenge-CodeChella)
 #### [Robotron 2000 - Projeto desenvolvido em JavaScript - Manipulação do DOM](https://github.com/lu78abranches/robotron-2000)
