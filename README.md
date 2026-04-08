@@ -1,21 +1,179 @@
-### - 👋 Hi, I’m @lu78abranches / Eu sou Luis Abranches
-### - 👀 I’m interested in back-end and front-end / Tenho interesse em back-end e Front-end
-### - 🌱 I’m currently learning Spring Boot, React, Java, Python, Java Script / Atualmente estou aprendendo Spring Boot, React, Java, Python, Java Script
-### - 💞️ I'm preparing a lot to be able to collaborate with other codes / Estou me preparando muito para poder colaborar com outros códigos
-### - 📫 How to reach me luisabranches.violao@gmail.com / Como entrar em contato, chegar até mim luisabranches.violao@gmail.com
+🇺🇸 English version 
 
-#### My repositories, click to see them, I'm always looking for evolution in my codes, that's why I always modify my applications. 
-#### Meus repositórios, clique para conhecê-los, estou sempre em busca de evolução nos meus códigos, por isso sempre modifico minhas aplicações.
+# 👨‍💻 Luis Henrique Abranches
 
-#### My Main Repositories / Meus Repositórios Principais
+🚀 Backend Developer | Java | Spring Boot | Clean Architecture  
 
-#### [dsmeta - Projeto FullStack usando tecnologias React e Spring Boot.](https://github.com/lu78abranches/dsmeta)
-#### [Persistencia-JPA-Hibernate - Adicionando a JPA em uma aplicação Java com Maven](https://github.com/lu78abranches/Persistencia-jpa-hibernate)
-#### [AluraBooks - Desenvolvido em HTML - CSS - JavaScript  ](https://alura-books-khaki.vercel.app/)
-#### [Desafio da Alura para desenvolvimento Front-End - Chalenge-CodeChella ](https://github.com/lu78abranches/Chalenge-CodeChella)
-#### [Robotron 2000 - Projeto desenvolvido em JavaScript - Manipulação do DOM](https://github.com/lu78abranches/robotron-2000)
-#### [Projeto de Estudo em JavaScript - Armazenando dados na Web - Mochila de Viagem.](https://github.com/lu78abranches/mochila-de-viagem)
-#### [Jogo de advinhação de número - Desenvolvido em JavaScript  ](https://github.com/lu78abranches/numero-secreto)
+Backend developer specialized in building scalable and maintainable REST APIs using **Java and Spring Boot**.
+
+Strong focus on **Clean Architecture**, code quality, and automated testing.  
+Hands-on experience designing well-structured applications with clear separation of concerns.
+
+---
+
+## 🧠 About Me
+
+- 🎓 Degree in Systems Analysis and Development  
+- 💻 5+ years studying and building software  
+- 🧩 Focused on backend development and software architecture  
+- 📚 Continuously improving in system design and best practices  
+
+---
+
+## 🛠️ Tech Stack
+
+**Main Stack**  
+- Java  
+- Spring Boot  
+
+**Architecture & Design**  
+- Clean Architecture  
+- RESTful APIs  
+- Layered Architecture  
+
+**Databases**  
+- PostgreSQL  
+- H2 (testing environments)
+- MySQL 
+
+**Testing**  
+- JUnit  
+- Integration Testing  
+- Testcontainers (learning / applying)  
+
+**DevOps & Tools**  
+- Docker (in progress)  
+- CI/CD (learning)  
+- Git & GitHub  
+
+---
+
+## 📌 What I Focus On
+
+- Building **well-structured backend applications**  
+- Writing **clean, maintainable code**  
+- Applying **software architecture principles in practice**  
+- Creating **testable and scalable systems**  
+
+---
+
+## 📂 Featured Projects
+
+🔎 Check my pinned repositories below
+
+You will find projects with:
+
+- REST APIs built with Spring Boot  
+- Clean Architecture in practice  
+- Database integration  
+- Unit and integration tests  
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Software Architecture  
+- CI/CD pipelines with Docker  
+- Microservices and SOA  
+- Cloud fundamentals  
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: ([add here](https://www.linkedin.com/in/luis-abranches/))  
+- 📧 Email: ([add here](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox))  
+
+---
+
+## 🎯 Career Goal
+
+Looking for Backend Developer opportunities where I can contribute with solid engineering practices, grow technically, and build scalable systems.
+
+---
+
+⭐ Feel free to explore my repositories!
+
+---
+
+🇧🇷 Versão em português
+
+# 👨‍💻 Luis Henrique Abranches
+
+🚀 Desenvolvedor Backend Java | Spring Boot | Arquitetura de Software  
+
+Desenvolvedor com forte foco em **Java e Spring Boot**, especializado na construção de APIs REST escaláveis e bem estruturadas.
+
+Tenho experiência prática aplicando **Clean Architecture**, testes automatizados e boas práticas de engenharia de software em projetos reais.
+
+---
+
+## 🧠 Sobre mim
+
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
+- 💻 +5 anos estudando e desenvolvendo software  
+- 🧩 Foco em backend e arquitetura de sistemas  
+- 📚 Em constante evolução em Engenharia de Software  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Backend:** Java, Spring Boot  
+- **Banco de dados:** PostgreSQL, H2, MySQL  
+- **Arquitetura:** Clean Architecture, REST APIs  
+- **Testes:** JUnit, Testcontainers  
+- **DevOps:** Docker, CI/CD (em evolução)  
+- **Outros:** Git, GitHub  
+
+---
+
+## 📌 Destaques dos meus projetos
+
+🔹 APIs REST bem estruturadas  
+🔹 Separação de camadas (domain, application, infrastructure)  
+🔹 Uso de boas práticas de código limpo  
+🔹 Testes automatizados e ambiente de testes isolado  
+🔹 Projetos com foco em escalabilidade e manutenção  
+
+---
+
+## 📂 Projetos em destaque
+
+📌 *Veja meus repositórios fixados abaixo*  
+
+Aqui você encontrará projetos com:
+
+- CRUD completo com boas práticas
+- Arquitetura limpa aplicada na prática
+- Integração com banco de dados
+- Testes unitários e de integração
+
+---
+
+## 📈 O que estou estudando atualmente
+
+- 🔥 Arquitetura de Software (nível avançado)
+- ⚙️ CI/CD com Docker
+- 🌐 Microsserviços e SOA
+- ☁️ Cloud (em progresso)
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: ([coloque aqui](https://www.linkedin.com/in/luis-abranches/))
+- 📧 Email: ([coloque aqui](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox))
+
+---
+
+## ⚡ Objetivo
+
+Busco oportunidades como Desenvolvedor Backend, onde eu possa aplicar boas práticas, crescer tecnicamente e gerar impacto real nos projetos.
+
+---
+
+⭐ Se algum projeto te interessar, fique à vontade para explorar!
 
 
 
