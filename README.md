@@ -81,8 +81,9 @@ You will find projects with:
 
 ## 📫 Contact
 
-- 💼 LinkedIn: ([add here](https://www.linkedin.com/in/luis-abranches/))  
-- 📧 Email: ([add here](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-abranches/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisabranches.violao@gmail.com)
 
 ---
 
@@ -162,8 +163,9 @@ Aqui você encontrará projetos com:
 
 ## 📫 Contato
 
-- 💼 LinkedIn: ([coloque aqui](https://www.linkedin.com/in/luis-abranches/))
-- 📧 Email: ([coloque aqui](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-abranches/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisabranches.violao@gmail.com)
 
 ---
 
