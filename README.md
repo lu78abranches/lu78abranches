@@ -1,183 +1,171 @@
 🇺🇸 English version 
 
-# 👨‍💻 Luis Henrique Abranches
+## 👨‍💻 Luis Henrique Abranches
 
-🚀 Backend Developer | Java | Spring Boot | Clean Architecture  
+🚀 Backend Java Developer | Full Stack | AI Integration | Spring Boot
 
-Backend developer specialized in building scalable and maintainable REST APIs using **Java and Spring Boot**.
-
-Strong focus on **Clean Architecture**, code quality, and automated testing.  
-Hands-on experience designing well-structured applications with clear separation of concerns.
+Backend developer building production-ready REST APIs with **Java and Spring Boot**,
+with Full Stack capability (React/TypeScript) and hands-on experience integrating
+**Artificial Intelligence** into real software systems.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Degree in Systems Analysis and Development  
-- 💻 5+ years studying and building software  
-- 🧩 Focused on backend development and software architecture  
-- 📚 Continuously improving in system design and best practices  
+- 🎓 B.Tech in Systems Analysis & Development — UNICID (2024)
+- 🤖 Built AI-powered systems using Google Gemini Vision and YOLOv8
+- 🚀 3 applications live in production with real users
+- 📦 39 public repositories on GitHub
+- 📍 São Paulo, Brazil — open to hybrid and remote roles
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Main Stack**  
-- Java  
-- Spring Boot  
+**Backend**
+- Java 17 · Spring Boot · REST API · Clean Architecture · JPA/Hibernate
 
-**Architecture & Design**  
-- Clean Architecture  
-- RESTful APIs  
-- Layered Architecture  
+**Frontend**
+- React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3
 
-**Databases**  
-- PostgreSQL  
-- H2 (testing environments)
-- MySQL 
+**AI & Computer Vision**
+- Google Gemini Vision API · YOLOv8 · ByteTrack · OpenCV · Python
 
-**Testing**  
-- JUnit  
-- Integration Testing  
-- Testcontainers (learning / applying)  
+**Databases**
+- PostgreSQL · MySQL · H2 (testing)
 
-**DevOps & Tools**  
-- Docker (in progress)  
-- CI/CD (learning)  
-- Git & GitHub  
+**DevOps & Tools**
+- Docker · Docker Compose · Git · GitHub · Render · Netlify
 
 ---
 
-## 📌 What I Focus On
+## 🚀 Featured Projects
 
-- Building **well-structured backend applications**  
-- Writing **clean, maintainable code**  
-- Applying **software architecture principles in practice**  
-- Creating **testable and scalable systems**  
+### 💊 AI Pharmacy Budget API
+REST API for compounding pharmacies using **Google Gemini Vision** to extract
+structured data from medical prescription images via NLP.
+→ [Live Demo](https://api-orcamento-manipulado.netlify.app)
 
----
+### 🛒 Minimarket AI Monitor
+Real-time computer vision system using **YOLOv8 + ByteTrack** to track
+customer behavior and shelf interactions in supermarkets.
+→ [Live Demo](https://minimarket-ai-monitor.onrender.com/dashboard#)
 
-## 📂 Featured Projects
-
-🔎 Check my pinned repositories below
-
-You will find projects with:
-
-- REST APIs built with Spring Boot  
-- Clean Architecture in practice  
-- Database integration  
-- Unit and integration tests  
+### 📊 CoreMetrics — Sales Dashboard
+Full Stack sales dashboard with real-time **SMS notifications via Twilio API**,
+filterable by date range and salesperson.
+→ [Live Demo](https://core-metrics.netlify.app)
 
 ---
 
-## 📈 Currently Learning
+## 📈 Currently Deepening
 
-- Advanced Software Architecture  
-- CI/CD pipelines with Docker  
-- Microservices and SOA  
-- Cloud fundamentals  
+- Microservices & event-driven architecture
+- Cloud platforms (AWS / GCP fundamentals)
+- Kubernetes basics
+- Angular
 
 ---
 
 ## 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lu78abranches)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-abranches/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisabranches.violao@gmail.com)
 
 ---
 
 ## 🎯 Career Goal
 
-Looking for Backend Developer opportunities where I can contribute with solid engineering practices, grow technically, and build scalable systems.
-
----
+Seeking my first formal opportunity as a Junior Java Developer where I can
+contribute with solid engineering practices, grow within a strong team,
+and deliver real impact from day one.
 
 ⭐ Feel free to explore my repositories!
-
 ---
 
 🇧🇷 Versão em português
 
 # 👨‍💻 Luis Henrique Abranches
 
-🚀 Desenvolvedor Backend Java | Spring Boot | Arquitetura de Software  
+🚀 Backend Java Developer | Full Stack | Integração com IA | Spring Boot
 
-Desenvolvedor com forte foco em **Java e Spring Boot**, especializado na construção de APIs REST escaláveis e bem estruturadas.
-
-Tenho experiência prática aplicando **Clean Architecture**, testes automatizados e boas práticas de engenharia de software em projetos reais.
+Desenvolvedor com foco em **Java e Spring Boot**, capacidade Full Stack
+(React/TypeScript) e experiência prática integrando **Inteligência Artificial**
+em sistemas reais em produção.
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 💻 +5 anos estudando e desenvolvendo software  
-- 🧩 Foco em backend e arquitetura de sistemas  
-- 📚 Em constante evolução em Engenharia de Software  
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — UNICID (2024)
+- 🤖 Sistemas com Google Gemini Vision e YOLOv8 em produção
+- 🚀 3 aplicações ao vivo com usuários reais
+- 📦 39 repositórios públicos no GitHub
+- 📍 São Paulo, SP — disponível para híbrido e remoto
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
-- **Backend:** Java, Spring Boot  
-- **Banco de dados:** PostgreSQL, H2, MySQL  
-- **Arquitetura:** Clean Architecture, REST APIs  
-- **Testes:** JUnit, Testcontainers  
-- **DevOps:** Docker, CI/CD (em evolução)  
-- **Outros:** Git, GitHub  
+**Backend**
+- Java 17 · Spring Boot · REST API · Clean Architecture · JPA/Hibernate
 
----
+**Frontend**
+- React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3
 
-## 📌 Destaques dos meus projetos
+**IA & Visão Computacional**
+- Google Gemini Vision API · YOLOv8 · ByteTrack · OpenCV · Python
 
-🔹 APIs REST bem estruturadas  
-🔹 Separação de camadas (domain, application, infrastructure)  
-🔹 Uso de boas práticas de código limpo  
-🔹 Testes automatizados e ambiente de testes isolado  
-🔹 Projetos com foco em escalabilidade e manutenção  
+**Banco de Dados**
+- PostgreSQL · MySQL · H2 (testes)
+
+**DevOps & Ferramentas**
+- Docker · Docker Compose · Git · GitHub · Render · Netlify
 
 ---
 
-## 📂 Projetos em destaque
+## 🚀 Projetos em Destaque
 
-📌 *Veja meus repositórios fixados abaixo*  
+### 💊 AI Pharmacy Budget API
+API REST para farmácias de manipulação usando **Google Gemini Vision**
+para extrair dados estruturados de receitas médicas via NLP.
+→ [Demo ao vivo](https://api-orcamento-manipulado.netlify.app)
 
-Aqui você encontrará projetos com:
+### 🛒 Minimarket AI Monitor
+Sistema de visão computacional em tempo real com **YOLOv8 + ByteTrack**
+para rastrear comportamento de clientes em supermercados.
+→ [Demo ao vivo](https://minimarket-ai-monitor.onrender.com/dashboard#)
 
-- CRUD completo com boas práticas
-- Arquitetura limpa aplicada na prática
-- Integração com banco de dados
-- Testes unitários e de integração
+### 📊 CoreMetrics — Dashboard de Vendas
+Aplicação Full Stack com **notificações SMS via Twilio API** em tempo real,
+filtrável por período e vendedor.
+→ [Demo ao vivo](https://core-metrics.netlify.app)
 
 ---
 
-## 📈 O que estou estudando atualmente
+## 📈 Estudando Atualmente
 
-- 🔥 Arquitetura de Software (nível avançado)
-- ⚙️ CI/CD com Docker
-- 🌐 Microsserviços e SOA
-- ☁️ Cloud (em progresso)
+- Microsserviços e arquitetura orientada a eventos
+- Cloud (AWS / GCP fundamentos)
+- Kubernetes
+- Angular
 
 ---
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-abranches/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisabranches.violao@gmail.com)
 
 ---
 
 ## ⚡ Objetivo
 
-Busco oportunidades como Desenvolvedor Backend, onde eu possa aplicar boas práticas, crescer tecnicamente e gerar impacto real nos projetos.
+Busco minha primeira oportunidade formal como Desenvolvedor Java Júnior,
+onde possa aplicar boas práticas, crescer dentro de um time forte e gerar
+impacto real desde o primeiro dia.
 
----
-
-⭐ Se algum projeto te interessar, fique à vontade para explorar!
+⭐ Fique à vontade para explorar os repositórios!
 
 
 
